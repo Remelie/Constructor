@@ -1,4 +1,9 @@
-<?php
+<html>
+<head>
+    <title>Using Constructor and Destructor</title>
+</head>
+    <body>
+ <?php
 class Fruit {
   public $name;
   public $color;
@@ -20,3 +25,5 @@ class Fruit {
 
 $apple = new Fruit("Apple", "red");
 ?>
+      </body>
+</html>
